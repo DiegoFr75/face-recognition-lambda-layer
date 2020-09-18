@@ -1,11 +1,11 @@
 # Lambda layer to use face recogniton on AWS Lambda (Python 3.6)
 
 # Python dependencies
-1. dlib==19.21.0
-2. face_recognition
-2. face-recognition-models==0.3.0
-3. numpy==1.15.4
-4. Pillow==7.2.0
+- dlib==19.21.0
+- face_recognition
+- face-recognition-models==0.3.0
+- numpy==1.15.4
+- Pillow==7.2.0
 
 # Creating a lambda layer
 1. Download "face_recognition_layer.zip"
